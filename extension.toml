@@ -1,0 +1,7 @@
+id = "moonlight-theme"
+name = "Moonlight Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Veaquer veaquer@gmail.com"]
+description = "Cool moonlight theme"
+repository = "https://github.com/veaquer/zed_moonlight"
